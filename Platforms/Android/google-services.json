@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "867009849084",
+    "project_id": "pushnotification-maui",
+    "storage_bucket": "pushnotification-maui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867009849084:android:70c6ba2d597106f6dc9979",
+        "android_client_info": {
+          "package_name": "com.companyname.pushnotificationdemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdAF23vhfh99xR6YJifjdybgaopv6o7bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867009849084:android:6f54f32069e2b24bdc9979",
+        "android_client_info": {
+          "package_name": "com.companyname.pushnotificationwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdAF23vhfh99xR6YJifjdybgaopv6o7bM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
