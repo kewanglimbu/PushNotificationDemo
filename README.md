@@ -1,6 +1,6 @@
 # PushNotificationDemo
 
-#### Check Out My Medium Blog Story
+#### Check Out My Medium Story
 
 For detailed instructions and explanations, please read my blog post on Medium:
 
